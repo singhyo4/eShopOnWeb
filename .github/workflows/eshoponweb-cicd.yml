@@ -9,7 +9,7 @@ env:
   LOCATION: centralindia
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 40e34bec-717a-4b15-99cc-780645667e43
-  WEBAPP-NAME: az400-singhy-devops
+  WEBAPP-NAME: az400-singhy04-devops
 
 
 jobs:
